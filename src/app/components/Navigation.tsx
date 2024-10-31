@@ -30,13 +30,13 @@ const components: { title: string; href: string; description: string }[] = [
       "For sighted users to preview content available behind a link.",
   },
   {
-    title: "Progress",
+    title: "Progress bar",
     href: "/docs/primitives/progress",
     description:
       "Displays an indicator showing the completion progress of a task, typically displayed as a progress bar.",
   },
   {
-    title: "Scroll-area",
+    title: "Scroll-area section",
     href: "/docs/primitives/scroll-area",
     description: "Visually or semantically separates content.",
   },
